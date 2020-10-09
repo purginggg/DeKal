@@ -1,0 +1,26 @@
+
+
+{
+    "Regardez la vidéo pour plus d'informations": "Ou sinon allez vister le github du selfbot",
+
+    "token":  "Votre token",
+    "prefix":  "Un prefix",
+    "id": "Votre id Or Konsekens",
+    "image":  "https://cdn.discordapp.com/attachments/720661148948758606/735186683204730950/171.png",
+    "color":  "0xCode hexadecimal sans #",
+    "twitch":  "https://twitch.tv/trzdev ou votre lien twitch | et trz c'est mon ancien pseudo donc je voulais faire une sorte de dédicasse",
+    "nsfw": "off ou on",
+    "nitro_claimer": "off ou on",
+    "multi_status": ["Multistream1",  "Multistream1",  "Multistream1"],
+    "tuto_premium": "Pour le premium, il est directement lier a votre compte et non pas a une clé, donc si vous changez de compte merci de mp TRZ",
+    "application_id": "l'id de ton application",
+    "imagerpc": "nom de l'image",
+    "title": "titre rich présence",
+    "details": "details rich présence",
+    "state": "state rich présence",
+    "largetext": "text de la grande l'image",
+    "smalltext": "text de la petite image",
+    "sizeplayer": "nombre de joueurs",
+    "sizeplayermax": "nombre max de joueurs"
+           
+}
